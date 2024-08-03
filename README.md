@@ -5,12 +5,12 @@ A list of tools, both well-known and lesser-known, that are useful for investors
 
 - [NASDAQ Stock Screener](https://www.nasdaq.com/market-activity/stocks/screener): Tool for filtering stocks based on various criteria.
 - [NYSE Listings Directory](https://www.nyse.com/listings_directory/stock): Comprehensive directory of stocks listed on the New York Stock Exchange.
-- [Stockanalysis.com](http://stockanalysis.com/): Detailed stock analysis and screening tool.
+- [Stockanalysis.com](https://stockanalysis.com/): Detailed stock analysis and screening tool.
 - [QuickFS](https://quickfs.net): Platform for financial statement analysis and tracking of company performance.
 
 ## Insider Trading Screeners
 
-- [Finviz](http://finviz.com): Financial visualizations and stock screener with extensive charting capabilities.
+- [Finviz](https://finviz.com): Financial visualizations and stock screener with extensive charting capabilities.
 
 ## Dividend Trackers
 
@@ -19,8 +19,8 @@ A list of tools, both well-known and lesser-known, that are useful for investors
 
 ## Portfolio Management
 
-- [Portfolio Visualizer](portfoliovisualizer.com): Advanced portfolio analysis and optimization tool.
-- [Portfolio Performance](http://portfolio-performance.info): Open-source portfolio management tool for tracking investments and performance.
+- [Portfolio Visualizer](https://portfoliovisualizer.com): Advanced portfolio analysis and optimization tool.
+- [Portfolio Performance](https://portfolio-performance.info): Open-source portfolio management tool for tracking investments and performance.
 - [Digrin](https://www.digrin.com): Platform for tracking dividend growth and portfolio performance.
 
 ## Research and Analysis
@@ -34,11 +34,11 @@ A list of tools, both well-known and lesser-known, that are useful for investors
 
 ## ETF Analysis
 
-- [JustETF](http://justetf.com): Comprehensive platform for ETF research and analysis.
+- [JustETF](https://justetf.com): Comprehensive platform for ETF research and analysis.
 
 ## Historical Data and Trends
 
-- [MacroTrends](http://macrotrends.net): Provides historical financial data and charts to analyze long-term trends and performance of companies.
+- [MacroTrends](https://macrotrends.net): Provides historical financial data and charts to analyze long-term trends and performance of companies.
 
 ## Other
 
