@@ -5,8 +5,11 @@ A list of tools, both well-known and lesser-known, that are useful for investors
 
 - [NASDAQ Stock Screener](https://www.nasdaq.com/market-activity/stocks/screener): Tool for filtering stocks based on various criteria.
 - [NYSE Listings Directory](https://www.nyse.com/listings_directory/stock): Comprehensive directory of stocks listed on the New York Stock Exchange.
-- [Finviz](http://finviz.com): Financial visualizations and stock screener with extensive charting capabilities.
 - [Stockanalysis.com](http://stockanalysis.com/): Detailed stock analysis and screening tool.
+
+## Insider Trading Screeners
+
+- [Finviz](http://finviz.com): Financial visualizations and stock screener with extensive charting capabilities.
 
 ## Dividend Trackers
 
@@ -18,6 +21,7 @@ A list of tools, both well-known and lesser-known, that are useful for investors
 - [Portfolio Visualizer](portfoliovisualizer.com): Advanced portfolio analysis and optimization tool.
 - [Portfolio Performance](http://portfolio-performance.info): Open-source portfolio management tool for tracking investments and performance.
 - [QuickFS](https://quickfs.net): Platform for financial statement analysis and tracking of company performance.
+- [Digrin](https://www.digrin.com): Platform for tracking dividend growth and portfolio performance.
 
 ## Research and Analysis
 
@@ -32,6 +36,10 @@ A list of tools, both well-known and lesser-known, that are useful for investors
 
 - [JustETF](http://justetf.com): Comprehensive platform for ETF research and analysis.
 
-## Miscellaneous
+## Historical Data and Trends
+
+- [MacroTrends](http://macrotrends.net): Provides historical financial data and charts to analyze long-term trends and performance of companies.
+
+## Other
 
 - [Google Docs - Investment Tracker](https://support.google.com/docs/answer/3093281?hl=en): Guide for creating a custom investment tracker using Google Sheets.
