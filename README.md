@@ -31,6 +31,7 @@ A list of tools, both well-known and lesser-known, that are useful for investors
 - [Stock Valuator](https://stockvaluator.co): Tool for valuating stocks based on fundamental analysis.
 - [FinanceCharts](https://www.financecharts.com/): Historical financial charts and data for stock analysis.
 - [Strike Market](https://strike.market): Market data and insights for informed investment decisions.
+- [GuruFocus](https://www.gurufocus.com/): Offers comprehensive company analysis, value investing insights, and portfolio tracking of renowned investors to support informed investment decisions.
 
 ## ETF Analysis
 
