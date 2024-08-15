@@ -12,6 +12,7 @@ A list of tools, both well-known and lesser-known, that are useful for investors
 
 - [Finviz](https://finviz.com): Financial visualizations and stock screener with extensive charting capabilities.
 - [WhaleWisdom](https://whalewisdom.com): A financial research platform that tracks and analyzes hedge fund activity, SEC filings, and institutional investment trends.
+- [Quiver Quantitative](https://www.quiverquant.com): Analyzes alternative data sources like government contracts and insider trading for investment analysis.
 
 ## Dividend Trackers
 
