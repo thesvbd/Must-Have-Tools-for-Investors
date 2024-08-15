@@ -8,9 +8,10 @@ A list of tools, both well-known and lesser-known, that are useful for investors
 - [Stockanalysis.com](https://stockanalysis.com/): Detailed stock analysis and screening tool.
 - [QuickFS](https://quickfs.net): Platform for financial statement analysis and tracking of company performance.
 
-## Insider Trading Screeners
+## Insider Trading Screeners & 13 fillers
 
 - [Finviz](https://finviz.com): Financial visualizations and stock screener with extensive charting capabilities.
+- [WhaleWisdom](https://whalewisdom.com): A financial research platform that tracks and analyzes hedge fund activity, SEC filings, and institutional investment trends.
 
 ## Dividend Trackers
 
